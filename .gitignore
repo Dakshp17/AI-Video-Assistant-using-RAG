@@ -12,6 +12,11 @@ __pycache__/
 downloads/
 downloades/
 
+vector_db/
+chroma_db/
+db/
+
+
 # YouTube Cookies
 cookies.txt
 

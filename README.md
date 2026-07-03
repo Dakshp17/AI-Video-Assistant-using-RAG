@@ -74,15 +74,15 @@ YouTube URL / Local Video
 
 ### Home Page
 
-> Add screenshot here
+> ![alt text](<Screenshot 2026-07-03 114242.png>)
 
 ### AI Response
 
-> Add screenshot here
+> ![alt text](image.png)
 
 ### Generated Summary
 
-> Add screenshot here
+> ![alt text](<Screenshot 2026-07-03 114739.png>)
 
 ---
 
